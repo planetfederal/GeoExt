@@ -1,0 +1,10 @@
+ahocevar = ahocevar <andreas.hocevar@gmail.com>
+bartvde = bartvde <bartvde@osgis.nl>
+bbinet = Bruno Binet <bruno.binet@gmail.com>
+elemoine = Éric Lemoine <eric.lemoine@camptocamp.com>
+fredj = Frédéric Junod <frederic.junod@camptocamp.com>
+pgiraud = pgiraud <pierre.giraud@camptocamp.com>
+sbenthall = sbenthall <seb@opengeo.org>
+tcoulter = tcoulter <tcoulter@opengeo.org>
+tschaub = Tim Schaub <tim.schaub@gmail.com>
+
